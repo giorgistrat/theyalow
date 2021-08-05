@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62 61" width="62" height="61">
+	<title>section_1</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.722;fill: #f5c506 } 
+	</style>
+	<g id="section_1">
+		<g id="scroll_1">
+			<path id="Ellipse 2 copy" class="shp0" d="M31.5 0C48.34 0 62 13.66 62 30.5C62 47.34 48.34 61 31.5 61C14.66 61 1 47.34 1 30.5C1 13.66 14.66 0 31.5 0Z" />
+		</g>
+	</g>
+</svg>
